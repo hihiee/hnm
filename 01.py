@@ -5,5 +5,3 @@ print("test")
 print("test test")
 
 print("final")
-
-print("test2")
